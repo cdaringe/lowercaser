@@ -1,2 +1,2 @@
 # lowercaser
-stream file(s) to and from disk with a lowercase transform
+migrated to https://gitlab.com/cdaringe/lowercaser/ for multi-os pipeline testing support
